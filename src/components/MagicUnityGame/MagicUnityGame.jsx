@@ -1,7 +1,7 @@
 const MagicUnityGame = () => {
     return (
         <iframe 
-        src="https://batanandrei.github.io/magic-build-unity/"
+        src="https://batanandrei.github.io/bird-build-unity/"
         title="Magic unity game"
         width="1000"
         height="650"
