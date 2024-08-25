@@ -1,6 +1,14 @@
 .App {
-  width: 1000px;
-  height: 610px;
-  border: 1px solid;
+	width: 1000px;
+	height: 610px;
+	border: 1px solid;
+}
+
+@media (min-width: 359px) and (max-width: 1235px) {
+	.App {
+		width: 359px;
+		height: 610px;
+		border: 1px solid;
+	}
 }
 
